@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1450024523 source:c:\users\owner\desktop\ld34\ld34project\base.cpp
+	"Base.h"
+
+1450027394 c:\users\owner\desktop\ld34\ld34project\base.h
+	<SDL/SDL.h>
+	<SDL_Image.h>
+	<SDL/SDL_mixer.h>
+	<ctime>
+	<math.h>
+	"Event.h"
+	"Surface.h"
+	"Entity.h"
+
+1449856708 c:\users\owner\desktop\ld34\ld34project\event.h
+	<SDL/SDL.h>
+
+1449856712 c:\users\owner\desktop\ld34\ld34project\surface.h
+	<SDL/SDL.h>
+	<SDL_image.h>
+
+1449855678 c:\users\owner\desktop\ld34\ld34project\entity.h
+	<vector>
+	"Animation.h"
+	"Surface.h"
+
+1449856717 c:\users\owner\desktop\ld34\ld34project\animation.h
+	<SDL/SDL.h>
+
+1450024580 source:c:\users\owner\desktop\ld34\ld34project\oncleanup.cpp
+	"Base.h"
+
+1450025085 source:c:\users\owner\desktop\ld34\ld34project\onevent.cpp
+	"Base.h"
+
+1450029051 source:c:\users\owner\desktop\ld34\ld34project\oninit.cpp
+	"Base.h"
+
+1450022703 source:c:\users\owner\desktop\ld34\ld34project\onloop.cpp
+	"Base.h"
+
+1450028863 source:c:\users\owner\desktop\ld34\ld34project\onrender.cpp
+	"Base.h"
+	<iostream>
+
+1449856530 source:c:\users\owner\desktop\ld34\ld34project\event.cpp
+	"Event.h"
+
+1449856573 source:c:\users\owner\desktop\ld34\ld34project\surface.cpp
+	"Surface.h"
+
+1449964397 source:c:\users\owner\desktop\ld34\ld34project\entity.cpp
+	"Entity.h"
+
+1449876872 source:c:\users\owner\desktop\ld34\ld34project\animation.cpp
+	"Animation.h"
+
